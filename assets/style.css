@@ -5,8 +5,8 @@
 }
 
 body {
-    background: url('img/bg-desktop.webp')
-    font-family: Bai Jamjuree;
+    background: url('img/bg-desktop.webp');
+    font-family: 'Bai Jamjuree';
 }
 
 #conteiner {
@@ -47,8 +47,8 @@ body {
 }
 
 .cartao_conteudo_pergunta p{
-    color var(--text-color);
-    front-weight: 500;
+    color: var(--text-color);
+    font-weight: 500;
 }
 
 .cartao_conteudo_resposta p{
@@ -72,7 +72,7 @@ body {
 }
 footer{
     background-color: black;
-    color: white
+    color: white;
     position: fixed;
     bottom: 0;
     width: 100%;
